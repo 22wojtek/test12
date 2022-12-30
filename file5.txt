@@ -2,3 +2,5 @@ new content
 2 line
 edited remotely
 4 line
+5 line locally
+6 line locally
